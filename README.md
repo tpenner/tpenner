@@ -1,4 +1,7 @@
-## Hi there 👋
+## Certifications
+
+- [Credly Profile](https://www.credly.com/users/tpenner/)
+
 
 <!--
 **tpenner/tpenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
